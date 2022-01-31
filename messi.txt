@@ -1,1 +1,2 @@
-This is first code written by me in git working directorymessi is a footbal playerronaldo is a good football playerMessi is a great player and ronaldo is also a great player
+This is first code written by me in git working directorymessi is a footbal player ronaldo is a good football player Messi is a great player and ronaldo is also a great player
+They both are great players if their times

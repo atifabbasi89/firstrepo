@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 This is first code written by me in git working directorymessi is a footbal playerronaldo is a good football playerMessi is a great player and ronaldo is also a great playerFootbal is the most popular game of the world
 people around the world watch this game
+=======
+This is first code written by me in git working directorymessi is a footbal player ronaldo is a good football player Messi is a great player and ronaldo is also a great player
+They both are great players if their times
+>>>>>>> 4ace6f65ed4a0f71806a0f560acb9fc283d736ad
+If messi wins the game he plays for ryal madrid
+and ronaldo plays for Barcelona

@@ -1,3 +1,4 @@
+remove conflict
 ronaldo is a great player of its timeronaldo vs messi
 <<<<<<< Updated upstream
 key player of ryal madrid 
@@ -5,4 +6,8 @@ second check stash
 =======
 key player of ryal madridto check stash
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 second time check git stash
+=======
+to check git stash
+>>>>>>> Stashed changes
